@@ -8,12 +8,21 @@ This project involves producing a medical equipment called a "pulse oximeter", w
 The absorption measurements provided for the previous module are as follows:
 
 AC R: peak-to-peak variation of the measured red light (pulsed wave)
+
 DC R: average value of the measured red light (fabric)
+
 AC IR: peak-to-peak variation of the infrared light measured (pulsed wave)
+
 DC IR: average value of the infrared light measured (tissue)
+
 These 4 measurements are transmitted every 2 ms by USB link to the computer module. The IT module must do the following:
 
 Reading of signals AC R, DC R, AC IR and DC IR from a USB device
 Digital filtering of signals
 Sp02 and heart rate measurement
 Display of measurements via a JAVA interface
+
+
+## Information
+
+This is a one week project of a french engineering school (ISEN Nantes) 
