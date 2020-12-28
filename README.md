@@ -1,6 +1,6 @@
 # OxymetreDePouls
 
-This app is a school project. All the initial instructions from the school are in french and are located in the Instructions folder.
+This app is a school project. All the initial instructions from the school are in french and are located in the "Documentation" folder.
 
 ## Goal of the project
 This project involves producing a medical equipment called a "pulse oximeter", which measures an individual's heart rate and blood oxygen saturation (SpO2) using a generally non-invasive photoelectric sensor at the end of the patient's finger. The IT part of this project consists in developing a module allowing to calculate and display the heart rate and the Sp02 frequency from the red light and infrared absorption measurements provided by an electronic module.
